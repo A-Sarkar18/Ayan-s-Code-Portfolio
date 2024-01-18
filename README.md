@@ -1,4 +1,4 @@
-# [Ayan Sarkar]
+# Ayan Sarkar
 
 ## Aspiring Predoctoral Candidate in Economics
 
