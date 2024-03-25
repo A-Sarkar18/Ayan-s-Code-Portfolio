@@ -14,7 +14,7 @@ My primary research interests revolve around environmental policy evaluation. Cu
 
 ### Projects
 
-#### [Cleaning Census Data Excersise]
+#### [Cleaning Census Data]
 - Used dplyr and tidyr packages in r to clean and aggregate US Census data.
 
 
