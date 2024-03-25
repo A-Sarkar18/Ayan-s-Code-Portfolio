@@ -15,7 +15,11 @@ My primary research interests revolve around environmental policy evaluation. Cu
 ### Projects
 
 #### [Cleaning Census Data]
+- Simple demonstration of basic data cleaning procedule along with simple visualizations
 - Used dplyr and tidyr packages in r to clean and aggregate US Census data.
+
+#### [Model Selection]
+- Used Mallow's Cp statistic to generate optimal regression model through nuanced model selection procedures to improve model performance.
 
 
 ### Skills
