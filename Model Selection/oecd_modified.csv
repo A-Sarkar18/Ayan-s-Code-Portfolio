@@ -1,0 +1,547 @@
+"Country","Year","Population.x","Population.y","Continent","Hemisphere","Human.Development.Groups","UNDP.Developing.Regions","HDI.Rank..2021.","Gross_National_Income_per_capita","COU","POL","Pollutant","VAR","Variable","YEA","Unit.Code","Unit","PowerCode.Code","PowerCode","Value"
+"Australia",2000,19028802,19028802,"Oceania","Southern Hemisphere","Very High","",5,37296.64145,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",1881.237
+"Australia",2005,20176844,20176844,"Oceania","Southern Hemisphere","Very High","",5,41039.08996,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",2194.272
+"Australia",2010,22031750,22031750,"Oceania","Southern Hemisphere","Very High","",5,42840.45928,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",2341.224
+"Australia",2011,22340024,22340024,"Oceania","Southern Hemisphere","Very High","",5,44205.31566,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",2292.039
+"Australia",2012,22733465,22733465,"Oceania","Southern Hemisphere","Very High","",5,44878.41764,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",2439.386
+"Australia",2013,23128129,23128129,"Oceania","Southern Hemisphere","Very High","",5,45260.60917,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",2511.495
+"Australia",2014,23475686,23475686,"Oceania","Southern Hemisphere","Very High","",5,45851.64201,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",2527.429
+"Australia",2015,23815995,23815995,"Oceania","Southern Hemisphere","Very High","",5,46307.57617,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",2545.259
+"Australia",2016,24190907,24190907,"Oceania","Southern Hemisphere","Very High","",5,46558.17827,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",2612.503
+"Australia",2017,24594202,24594202,"Oceania","Southern Hemisphere","Very High","",5,47085.22714,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",2687.782
+"Australia",2018,24966643,24966643,"Oceania","Southern Hemisphere","Very High","",5,47487.64407,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",2769.986
+"Australia",2019,25340217,25340217,"Oceania","Southern Hemisphere","Very High","",5,47312.192,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",2729.715
+"Australia",2020,25655289,25655289,"Oceania","Southern Hemisphere","Very High","",5,47078.24446,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",2975.848
+"Australia",2021,25688079,25688079,"Oceania","Southern Hemisphere","Very High","",5,49238.43335,"AUS","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",2800.466
+"Austria",2000,8002186,8002186,"Europe","Northern Hemisphere","Very High","",25,47031.30264,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",210.647
+"Austria",2005,8201359,8201359,"Europe","Northern Hemisphere","Very High","",25,50119.4083,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",245.55
+"Austria",2010,8351643,8351643,"Europe","Northern Hemisphere","Very High","",25,52538.42144,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",204.008
+"Austria",2011,8375164,8375164,"Europe","Northern Hemisphere","Very High","",25,53124.04133,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",196.072
+"Austria",2012,8408121,8408121,"Europe","Northern Hemisphere","Very High","",25,52887.1943,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",191.346
+"Austria",2013,8451860,8451860,"Europe","Northern Hemisphere","Very High","",25,52625.83517,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",191.726
+"Austria",2014,8507786,8507786,"Europe","Northern Hemisphere","Very High","",25,52720.29769,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",184.712
+"Austria",2015,8584926,8584926,"Europe","Northern Hemisphere","Very High","",25,52450.23877,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",182.088
+"Austria",2016,8700471,8700471,"Europe","Northern Hemisphere","Very High","",25,53662.57417,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",174.386
+"Austria",2017,8772865,8772865,"Europe","Northern Hemisphere","Very High","",25,53665.02668,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",165.136
+"Austria",2018,8822267,8822267,"Europe","Northern Hemisphere","Very High","",25,54587.74445,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",152.925
+"Austria",2019,8858775,8858775,"Europe","Northern Hemisphere","Very High","",25,55323.03915,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",143.428
+"Austria",2020,8901064,8901064,"Europe","Northern Hemisphere","Very High","",25,51574.18306,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",123.278
+"Austria",2021,8932664,8932664,"Europe","Northern Hemisphere","Very High","",25,53618.67138,"AUT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",121.121
+"Belgium",2000,10239085,10239085,"Europe","Northern Hemisphere","Very High","",13,45184.55302,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",354.569
+"Belgium",2005,10445852,10445852,"Europe","Northern Hemisphere","Very High","",13,47530.82806,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",324.911
+"Belgium",2010,10839905,10839905,"Europe","Northern Hemisphere","Very High","",13,48513.05855,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",244.817
+"Belgium",2011,11000638,11000638,"Europe","Northern Hemisphere","Very High","",13,47497.60421,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",227.39
+"Belgium",2012,11075889,11075889,"Europe","Northern Hemisphere","Very High","",13,48583.46685,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",215.686
+"Belgium",2013,11137974,11137974,"Europe","Northern Hemisphere","Very High","",13,48783.26894,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",205.732
+"Belgium",2014,11180840,11180840,"Europe","Northern Hemisphere","Very High","",13,49281.30405,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",195.728
+"Belgium",2015,11237274,11237274,"Europe","Northern Hemisphere","Very High","",13,50027.9913,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",196.252
+"Belgium",2016,11311117,11311117,"Europe","Northern Hemisphere","Very High","",13,50509.14666,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",184.823
+"Belgium",2017,11351727,11351727,"Europe","Northern Hemisphere","Very High","",13,50904.68909,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",173.383
+"Belgium",2018,11398589,11398589,"Europe","Northern Hemisphere","Very High","",13,51249.2268,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",166.174
+"Belgium",2019,11455519,11455519,"Europe","Northern Hemisphere","Very High","",13,52434.09838,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",154.701
+"Belgium",2020,11522440,11522440,"Europe","Northern Hemisphere","Very High","",13,49391.99684,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",136.262
+"Belgium",2021,11554767,11554767,"Europe","Northern Hemisphere","Very High","",13,52293.39977,"BEL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",138.827
+"Brazil",2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2012,197502313,197502313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2013,199217335,199217335,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2014,200929486,200929486,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2015,202633804,202633804,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2016,204325470,204325470,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2017,205999691,205999691,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2018,207651621,207651621,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2019,209276497.001,209276497.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2020,210869401.003,210869401.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil",2021,212425503.376,212425503.376,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada",2000,30525872,30525872,"America","Northern Hemisphere","Very High","",15,39187.81706,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",2705.938
+"Canada",2005,32076720,32076720,"America","Northern Hemisphere","Very High","",15,43853.09064,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",2263.787
+"Canada",2010,33807529,33807529,"America","Northern Hemisphere","Very High","",15,44528.55397,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",1893.601
+"Canada",2011,34166099,34166099,"America","Northern Hemisphere","Very High","",15,45969.25364,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",1802.471
+"Canada",2012,34516352,34516352,"America","Northern Hemisphere","Very High","",15,46117.10158,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",1693.495
+"Canada",2013,34883119,34883119,"America","Northern Hemisphere","Very High","",15,46909.89758,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",1648.887
+"Canada",2014,35249639,35249639,"America","Northern Hemisphere","Very High","",15,47500.43097,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",1609.994
+"Canada",2015,35575187,35575187,"America","Northern Hemisphere","Very High","",15,46417.51312,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",1543.506
+"Canada",2016,35871136,35871136,"America","Northern Hemisphere","Very High","",15,46340.41847,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",1468.398
+"Canada",2017,36314099,36314099,"America","Northern Hemisphere","Very High","",15,47702.63749,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",1492.369
+"Canada",2018,36798408,36798408,"America","Northern Hemisphere","Very High","",15,48156,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",1455.716
+"Canada",2019,37325235,37325235,"America","Northern Hemisphere","Very High","",15,48464.81227,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",1434.922
+"Canada",2020,37909001,37909001,"America","Northern Hemisphere","Very High","",15,45038.07302,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",1308.484
+"Canada",2021,38043450,38043450,"America","Northern Hemisphere","Very High","",15,46807.98619,"CAN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",1319.53
+"Chile",2000,15343326,15343326,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chile",2005,16183489,16183489,"America","Southern Hemisphere","Very High","LAC",42,17110.97596,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",121.238
+"Chile",2010,17063927,17063927,"America","Southern Hemisphere","Very High","LAC",42,19744.92469,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",228.328
+"Chile",2011,17254159,17254159,"America","Southern Hemisphere","Very High","LAC",42,20732.94409,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",241.744
+"Chile",2012,17443491,17443491,"America","Southern Hemisphere","Very High","LAC",42,22097.83875,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",256.505
+"Chile",2013,17611902,17611902,"America","Southern Hemisphere","Very High","LAC",42,22815.82741,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",218.321
+"Chile",2014,17787617,17787617,"America","Southern Hemisphere","Very High","LAC",42,23261.50787,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",232.807
+"Chile",2015,17971423,17971423,"America","Southern Hemisphere","Very High","LAC",42,23730.28359,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",225.015
+"Chile",2016,18167147,18167147,"America","Southern Hemisphere","Very High","LAC",42,23781.35546,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",221.785
+"Chile",2017,18419192,18419192,"America","Southern Hemisphere","Very High","LAC",42,23458.6445,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",235.913
+"Chile",2018,18751405,18751405,"America","Southern Hemisphere","Very High","LAC",42,23908.86388,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",200.891
+"Chile",2019,19107216,19107216,"America","Southern Hemisphere","Very High","LAC",42,24077.24668,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",225.225
+"Chile",2020,19458310,19458310,"America","Southern Hemisphere","Very High","LAC",42,22285.86026,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",304.923
+"Chile",2021,19678363,19678363,"America","Southern Hemisphere","Very High","LAC",42,24563.24486,"CHL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",259.168
+"Colombia",2000,39140080,39140080,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colombia",2005,41671878,41671878,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colombia",2010,44086292,44086292,"America","Northern Hemisphere","High","LAC",88,11347.09702,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",349.149
+"Colombia",2011,44553416,44553416,"America","Northern Hemisphere","High","LAC",88,11930.28232,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",352.516
+"Colombia",2012,45001571,45001571,"America","Northern Hemisphere","High","LAC",88,12344.80859,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",361.134
+"Colombia",2013,45434942,45434942,"America","Northern Hemisphere","High","LAC",88,12902.5132,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",373.105
+"Colombia",2014,45866010,45866010,"America","Northern Hemisphere","High","LAC",88,13432.16118,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",378.01
+"Colombia",2015,46313898,46313898,"America","Northern Hemisphere","High","LAC",88,13901.52184,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",387.258
+"Colombia",2016,46830116,46830116,"America","Northern Hemisphere","High","LAC",88,14044.84239,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",392.308
+"Colombia",2017,47419200,47419200,"America","Northern Hemisphere","High","LAC",88,13912.22581,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",375.216
+"Colombia",2018,48258494,48258494,"America","Northern Hemisphere","High","LAC",88,13941.33097,"COL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",386.747
+"Colombia",2019,49395678,49395678,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colombia",2020,50407647,50407647,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colombia",2021,51117378,51117378,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Costa Rica",2000,3872349,3872349,"America","Northern Hemisphere","Very High","LAC",58,12062.54245,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",40.894
+"Costa Rica",2005,4215248,4215248,"America","Northern Hemisphere","Very High","LAC",58,13647.15678,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",45.503
+"Costa Rica",2010,4533894,4533894,"America","Northern Hemisphere","Very High","LAC",58,16318.32297,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",54.781
+"Costa Rica",2011,4592149,4592149,"America","Northern Hemisphere","Very High","LAC",58,16811.46478,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",54.783
+"Costa Rica",2012,4652454,4652454,"America","Northern Hemisphere","Very High","LAC",58,17457.3481,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",60.085
+"Costa Rica",2013,4713168,4713168,"America","Northern Hemisphere","Very High","LAC",58,17594.06705,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",62.262
+"Costa Rica",2014,4773124,4773124,"America","Northern Hemisphere","Very High","LAC",58,17919.03127,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",58.773
+"Costa Rica",2015,4832234,4832234,"America","Northern Hemisphere","Very High","LAC",58,18327.60822,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",63.517
+"Costa Rica",2016,4890380,4890380,"America","Northern Hemisphere","Very High","LAC",58,18902.33613,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",67.555
+"Costa Rica",2017,4947490,4947490,"America","Northern Hemisphere","Very High","LAC",58,19283.51036,"CRI","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",66.267
+"Costa Rica",2018,5003403,5003403,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Costa Rica",2019,5058010,5058010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Costa Rica",2020,5111233,5111233,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Costa Rica",2021,5163033,5163033,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Czechia",2000,10278098,10278098,"Europe","Northern Hemisphere","Very High","",32,24150.30243,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",311.034
+"Czechia",2005,10198855,10198855,"Europe","Northern Hemisphere","Very High","",32,29410.2889,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",300.964
+"Czechia",2010,10462088,10462088,"Europe","Northern Hemisphere","Very High","",32,30855.38786,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",254.283
+"Czechia",2011,10486731,10486731,"Europe","Northern Hemisphere","Very High","",32,30812.07437,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",240.764
+"Czechia",2012,10505445,10505445,"Europe","Northern Hemisphere","Very High","",32,30967.18755,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",229.061
+"Czechia",2013,10516125,10516125,"Europe","Northern Hemisphere","Very High","",32,31223.31804,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",216.638
+"Czechia",2014,10512419,10512419,"Europe","Northern Hemisphere","Very High","",32,32119.85559,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",211.319
+"Czechia",2015,10538275,10538275,"Europe","Northern Hemisphere","Very High","",32,33841.91996,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",205.903
+"Czechia",2016,10553843,10553843,"Europe","Northern Hemisphere","Very High","",32,34856.11653,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",196.638
+"Czechia",2017,10578820,10578820,"Europe","Northern Hemisphere","Very High","",32,36626.68558,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",193.217
+"Czechia",2018,10610055,10610055,"Europe","Northern Hemisphere","Very High","",32,37668.16678,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",185.875
+"Czechia",2019,10649800,10649800,"Europe","Northern Hemisphere","Very High","",32,38505.63917,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",173.046
+"Czechia",2020,10693939,10693939,"Europe","Northern Hemisphere","Very High","",32,37551.07049,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",156.203
+"Czechia",2021,10701777,10701777,"Europe","Northern Hemisphere","Very High","",32,38745.21386,"CZE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",159.22
+"Denmark",2000,5330020,5330020,"Europe","Northern Hemisphere","Very High","",6,46139.8559,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",216.886
+"Denmark",2005,5411405,5411405,"Europe","Northern Hemisphere","Very High","",6,50870.24906,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",197.497
+"Denmark",2010,5534738,5534738,"Europe","Northern Hemisphere","Very High","",6,51409.125,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",143.789
+"Denmark",2011,5560628,5560628,"Europe","Northern Hemisphere","Very High","",6,51652.6725,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",135.672
+"Denmark",2012,5580516,5580516,"Europe","Northern Hemisphere","Very High","",6,51814.35144,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",125.509
+"Denmark",2013,5602628,5602628,"Europe","Northern Hemisphere","Very High","",6,52812.58307,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",120.838
+"Denmark",2014,5627235,5627235,"Europe","Northern Hemisphere","Very High","",6,53998.28993,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",111.554
+"Denmark",2015,5659715,5659715,"Europe","Northern Hemisphere","Very High","",6,54690.48924,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",107.789
+"Denmark",2016,5707251,5707251,"Europe","Northern Hemisphere","Very High","",6,55471.41408,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",107.917
+"Denmark",2017,5748769,5748769,"Europe","Northern Hemisphere","Very High","",6,56568.41589,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",105.722
+"Denmark",2018,5781190,5781190,"Europe","Northern Hemisphere","Very High","",6,57549.14584,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",99.985
+"Denmark",2019,5806081,5806081,"Europe","Northern Hemisphere","Very High","",6,58650.26154,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",95.173
+"Denmark",2020,5822763,5822763,"Europe","Northern Hemisphere","Very High","",6,58143.77306,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",88.875
+"Denmark",2021,5840045,5840045,"Europe","Northern Hemisphere","Very High","",6,60364.78595,"DNK","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",88.692
+"Estonia",2000,1401250,1401250,"Europe","Northern Hemisphere","Very High","",31,14343.06663,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",44.401
+"Estonia",2005,1358850,1358850,"Europe","Northern Hemisphere","Very High","",31,22401.96281,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",42.064
+"Estonia",2010,1333290,1333290,"Europe","Northern Hemisphere","Very High","",31,23797.52137,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",41.99
+"Estonia",2011,1329660,1329660,"Europe","Northern Hemisphere","Very High","",31,25900.41923,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",40.356
+"Estonia",2012,1325217,1325217,"Europe","Northern Hemisphere","Very High","",31,27110.35149,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",37.397
+"Estonia",2013,1320174,1320174,"Europe","Northern Hemisphere","Very High","",31,28361.78899,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",36.535
+"Estonia",2014,1315819,1315819,"Europe","Northern Hemisphere","Very High","",31,29532.96608,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",34.73
+"Estonia",2015,1313271,1313271,"Europe","Northern Hemisphere","Very High","",31,30361.38783,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",30.554
+"Estonia",2016,1315944,1315944,"Europe","Northern Hemisphere","Very High","",31,31594.42466,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",31.066
+"Estonia",2017,1315635,1315635,"Europe","Northern Hemisphere","Very High","",31,33040.70655,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",31.554
+"Estonia",2018,1319133,1319133,"Europe","Northern Hemisphere","Very High","",31,34552.40442,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",30.434
+"Estonia",2019,1324820,1324820,"Europe","Northern Hemisphere","Very High","",31,35879.58776,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",25.413
+"Estonia",2020,1328889,1328889,"Europe","Northern Hemisphere","Very High","",31,35131.82128,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",23.207
+"Estonia",2021,1330068,1330068,"Europe","Northern Hemisphere","Very High","",31,38048.26372,"EST","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",22.485
+"Finland",2000,5171302,5171302,"Europe","Northern Hemisphere","Very High","",11,42005.37419,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",234.847
+"Finland",2005,5236611,5236611,"Europe","Northern Hemisphere","Very High","",11,45949.01811,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",200.402
+"Finland",2010,5351427,5351427,"Europe","Northern Hemisphere","Very High","",11,46138.47385,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",179.376
+"Finland",2011,5375276,5375276,"Europe","Northern Hemisphere","Very High","",11,46338.34586,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",163.635
+"Finland",2012,5401267,5401267,"Europe","Northern Hemisphere","Very High","",11,45340.26397,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",154.705
+"Finland",2013,5426674,5426674,"Europe","Northern Hemisphere","Very High","",11,44871.50214,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",151.179
+"Finland",2014,5451270,5451270,"Europe","Northern Hemisphere","Very High","",11,45016.4823,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",143.276
+"Finland",2015,5471753,5471753,"Europe","Northern Hemisphere","Very High","",11,45628.12268,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",132.151
+"Finland",2016,5487308,5487308,"Europe","Northern Hemisphere","Very High","",11,46502.46698,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",127.585
+"Finland",2017,5503297,5503297,"Europe","Northern Hemisphere","Very High","",11,47593.88701,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",123.563
+"Finland",2018,5513130,5513130,"Europe","Northern Hemisphere","Very High","",11,48369.87096,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",119.361
+"Finland",2019,5517919,5517919,"Europe","Northern Hemisphere","Very High","",11,48901.80936,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",112.632
+"Finland",2020,5525292,5525292,"Europe","Northern Hemisphere","Very High","",11,47946.32854,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",97.874
+"Finland",2021,5533793,5533793,"Europe","Northern Hemisphere","Very High","",11,49452.16672,"FIN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",97.422
+"France",2000,60545022,60545022,"Europe","Northern Hemisphere","Very High","",28,40105.28572,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",1809.427
+"France",2005,62772870,62772870,"Europe","Northern Hemisphere","Very High","",28,41993.32952,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",1579.497
+"France",2010,64658856,64658856,"Europe","Northern Hemisphere","Very High","",28,42771.58715,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",1228.872
+"France",2011,64978721,64978721,"Europe","Northern Hemisphere","Very High","",28,43324.1221,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",1171.657
+"France",2012,65276983,65276983,"Europe","Northern Hemisphere","Very High","",28,43009.1157,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",1144.955
+"France",2013,65600350,65600350,"Europe","Northern Hemisphere","Very High","",28,43213.27903,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",1125.975
+"France",2014,66165980,66165980,"Europe","Northern Hemisphere","Very High","",28,43562.21508,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",1049.952
+"France",2015,66458153,66458153,"Europe","Northern Hemisphere","Very High","",28,44323.97472,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",1027.173
+"France",2016,66638391,66638391,"Europe","Northern Hemisphere","Very High","",28,44814.41572,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",978.139
+"France",2017,66809816,66809816,"Europe","Northern Hemisphere","Very High","",28,45584.57087,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",947.862
+"France",2018,67026224,67026224,"Europe","Northern Hemisphere","Very High","",28,46162.6579,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",893.116
+"France",2019,67177636,67177636,"Europe","Northern Hemisphere","Very High","",28,46963.19576,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",840.294
+"France",2020,67320216,67320216,"Europe","Northern Hemisphere","Very High","",28,43047.83087,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",732.559
+"France",2021,67656682,67656682,"Europe","Northern Hemisphere","Very High","",28,45937.05273,"FRA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",750.838
+"Germany",2000,82163475,82163475,"Europe","Northern Hemisphere","Very High","",9,42394.86412,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",1859.986
+"Germany",2005,82500849,82500849,"Europe","Northern Hemisphere","Very High","",9,44193.77053,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",1609.133
+"Germany",2010,81802257,81802257,"Europe","Northern Hemisphere","Very High","",9,47554.22563,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",1449.99
+"Germany",2011,80222065,80222065,"Europe","Northern Hemisphere","Very High","",9,50108.04686,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",1429.196
+"Germany",2012,80327900,80327900,"Europe","Northern Hemisphere","Very High","",9,50123.5299,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",1424.369
+"Germany",2013,80523746,80523746,"Europe","Northern Hemisphere","Very High","",9,50314.54101,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",1427.412
+"Germany",2014,80767463,80767463,"Europe","Northern Hemisphere","Very High","",9,51268.8727,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",1384.176
+"Germany",2015,81197537,81197537,"Europe","Northern Hemisphere","Very High","",9,52200.62642,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",1358.586
+"Germany",2016,82175684,82175684,"Europe","Northern Hemisphere","Very High","",9,53349.82314,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",1324.011
+"Germany",2017,82521653,82521653,"Europe","Northern Hemisphere","Very High","",9,54335.96281,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",1267.944
+"Germany",2018,82792351,82792351,"Europe","Northern Hemisphere","Very High","",9,54981.27749,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",1180.427
+"Germany",2019,83019213,83019213,"Europe","Northern Hemisphere","Very High","",9,55564.96736,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",1095.939
+"Germany",2020,83166711,83166711,"Europe","Northern Hemisphere","Very High","",9,53077.54364,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",970.609
+"Germany",2021,83155031,83155031,"Europe","Northern Hemisphere","Very High","",9,54534.21682,"DEU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",963.226
+"Greece",2000,10775627,10775627,"Europe","Northern Hemisphere","Very High","",33,28360.54842,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",429.542
+"Greece",2005,10969912,10969912,"Europe","Northern Hemisphere","Very High","",33,33703.24653,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",481.764
+"Greece",2010,11119289,11119289,"Europe","Northern Hemisphere","Very High","",33,32426.75908,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",362.583
+"Greece",2011,11123392,11123392,"Europe","Northern Hemisphere","Very High","",33,28849.61236,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",324.831
+"Greece",2012,11086406,11086406,"Europe","Northern Hemisphere","Very High","",33,27795.0881,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",284.459
+"Greece",2013,11003615,11003615,"Europe","Northern Hemisphere","Very High","",33,27200.16825,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",272.524
+"Greece",2014,10926807,10926807,"Europe","Northern Hemisphere","Very High","",33,27850.41613,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",267.882
+"Greece",2015,10858018,10858018,"Europe","Northern Hemisphere","Very High","",33,28208.72,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",261.616
+"Greece",2016,10783748,10783748,"Europe","Northern Hemisphere","Very High","",33,28194.52399,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",260.771
+"Greece",2017,10768193,10768193,"Europe","Northern Hemisphere","Very High","",33,28461.45581,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",266.128
+"Greece",2018,10741165,10741165,"Europe","Northern Hemisphere","Very High","",33,28566.21672,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",257.032
+"Greece",2019,10724599,10724599,"Europe","Northern Hemisphere","Very High","",33,29102.85675,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",247.979
+"Greece",2020,10718565,10718565,"Europe","Northern Hemisphere","Very High","",33,26680.88796,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",221.389
+"Greece",2021,10678632,10678632,"Europe","Northern Hemisphere","Very High","",33,29002.48545,"GRC","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",221.288
+"Hungary",2000,10221644,10221644,"Europe","Northern Hemisphere","Very High","",46,18526.67396,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",188.482
+"Hungary",2005,10097549,10097549,"Europe","Northern Hemisphere","Very High","",46,23355.02461,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",178.947
+"Hungary",2010,10014324,10014324,"Europe","Northern Hemisphere","Very High","",46,23597.39481,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",147.601
+"Hungary",2011,9985722,9985722,"Europe","Northern Hemisphere","Very High","",46,23814.05863,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",138.097
+"Hungary",2012,9931925,9931925,"Europe","Northern Hemisphere","Very High","",46,23596.14241,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",131.367
+"Hungary",2013,9908798,9908798,"Europe","Northern Hemisphere","Very High","",46,24483.8189,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",127.538
+"Hungary",2014,9877365,9877365,"Europe","Northern Hemisphere","Very High","",46,25259.66574,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",125.749
+"Hungary",2015,9855571,9855571,"Europe","Northern Hemisphere","Very High","",46,26281.74257,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",127.923
+"Hungary",2016,9830485,9830485,"Europe","Northern Hemisphere","Very High","",46,27615.68144,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",120.216
+"Hungary",2017,9797561,9797561,"Europe","Northern Hemisphere","Very High","",46,28307.73017,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",121.395
+"Hungary",2018,9778371,9778371,"Europe","Northern Hemisphere","Very High","",46,29638.3262,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",120.405
+"Hungary",2019,9772756,9772756,"Europe","Northern Hemisphere","Very High","",46,31464.44259,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",114.793
+"Hungary",2020,9769526,9769526,"Europe","Northern Hemisphere","Very High","",46,30487.04684,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",107.509
+"Hungary",2021,9730772,9730772,"Europe","Northern Hemisphere","Very High","",46,32789.01063,"HUN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",109.604
+"Iceland",2000,279049,279049,"Europe","Northern Hemisphere","Very High","",3,37875.68092,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",30.645
+"Iceland",2005,293577,293577,"Europe","Northern Hemisphere","Very High","",3,43631.89546,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",26.513
+"Iceland",2010,317630,317630,"Europe","Northern Hemisphere","Very High","",3,37384.16258,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",24.222
+"Iceland",2011,318452,318452,"Europe","Northern Hemisphere","Very High","",3,39273.83731,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",21.904
+"Iceland",2012,319575,319575,"Europe","Northern Hemisphere","Very High","",3,40751.37618,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",21.776
+"Iceland",2013,321857,321857,"Europe","Northern Hemisphere","Very High","",3,46066.78901,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",21.016
+"Iceland",2014,325671,325671,"Europe","Northern Hemisphere","Very High","",3,46529.7034,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",20.894
+"Iceland",2015,329100,329100,"Europe","Northern Hemisphere","Very High","",3,48904.51421,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",21.736
+"Iceland",2016,332529,332529,"Europe","Northern Hemisphere","Very High","",3,52768.75433,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",19.679
+"Iceland",2017,338349,338349,"Europe","Northern Hemisphere","Very High","",3,53923.22172,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",19.904
+"Iceland",2018,348450,348450,"Europe","Northern Hemisphere","Very High","",3,56492.26004,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",20.211
+"Iceland",2019,356991,356991,"Europe","Northern Hemisphere","Very High","",3,58055.06597,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",19.118
+"Iceland",2020,364134,364134,"Europe","Northern Hemisphere","Very High","",3,54141.4547,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",17.768
+"Iceland",2021,368792,368792,"Europe","Northern Hemisphere","Very High","",3,55782.04981,"ISL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",19.373
+"Ireland",2000,3777565,3777565,"Europe","Northern Hemisphere","Very High","",8,40412.06014,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",179.915
+"Ireland",2005,4111672,4111672,"Europe","Northern Hemisphere","Very High","",8,46725.35649,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",174.091
+"Ireland",2010,4549428,4549428,"Europe","Northern Hemisphere","Very High","",8,41667.89887,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",119.385
+"Ireland",2011,4570881,4570881,"Europe","Northern Hemisphere","Very High","",8,41143.12106,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",107.29
+"Ireland",2012,4589287,4589287,"Europe","Northern Hemisphere","Very High","",8,40945.23159,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",109.103
+"Ireland",2013,4609779,4609779,"Europe","Northern Hemisphere","Very High","",8,43349.89161,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",110.717
+"Ireland",2014,4637852,4637852,"Europe","Northern Hemisphere","Very High","",8,46428.53601,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",109.481
+"Ireland",2015,4677627,4677627,"Europe","Northern Hemisphere","Very High","",8,55490.8464,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",112.232
+"Ireland",2016,4726286,4726286,"Europe","Northern Hemisphere","Very High","",8,59305.86957,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",112.256
+"Ireland",2017,4784383,4784383,"Europe","Northern Hemisphere","Very High","",8,61729.40784,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",109.787
+"Ireland",2018,4830392,4830392,"Europe","Northern Hemisphere","Very High","",8,64098.84282,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",110.867
+"Ireland",2019,4904240,4904240,"Europe","Northern Hemisphere","Very High","",8,67253.22253,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",102.732
+"Ireland",2020,4964440,4964440,"Europe","Northern Hemisphere","Very High","",8,67735.8762,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",95.756
+"Ireland",2021,5006324,5006324,"Europe","Northern Hemisphere","Very High","",8,76168.98443,"IRL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",99.44
+"Israel",2000,6209145,6209145,"Asia","Northern Hemisphere","Very High","",22,27991.28691,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",236.673
+"Israel",2005,6869497,6869497,"Asia","Northern Hemisphere","Very High","",22,28844.25638,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",196.438
+"Israel",2010,7552047,7552047,"Asia","Northern Hemisphere","Very High","",22,32085.50509,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",163.3
+"Israel",2011,7695078,7695078,"Asia","Northern Hemisphere","Very High","",22,33026.89275,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",158.143
+"Israel",2012,7836510,7836510,"Asia","Northern Hemisphere","Very High","",22,33231.73289,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",177.811
+"Israel",2013,7984456,7984456,"Asia","Northern Hemisphere","Very High","",22,34530.46471,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",144.965
+"Israel",2014,8134460,8134460,"Asia","Northern Hemisphere","Very High","",22,35876.7937,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",125.068
+"Israel",2015,8296899,8296899,"Asia","Northern Hemisphere","Very High","",22,36704.39549,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",117.557
+"Israel",2016,8463427,8463427,"Asia","Northern Hemisphere","Very High","",22,37937.41307,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",101.908
+"Israel",2017,8628589,8628589,"Asia","Northern Hemisphere","Very High","",22,38924.31301,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",96.216
+"Israel",2018,8797940,8797940,"Asia","Northern Hemisphere","Very High","",22,39620.10088,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",92.24
+"Israel",2019,8967596,8967596,"Asia","Northern Hemisphere","Very High","",22,40633.62378,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",85.625
+"Israel",2020,9140470,9140470,"Asia","Northern Hemisphere","Very High","",22,39015.07545,"ISR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",77.301
+"Israel",2021,9289762,9289762,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy",2000,56923524,56923524,"Europe","Northern Hemisphere","Very High","",30,42800.14793,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",1502.606
+"Italy",2005,57874753,57874753,"Europe","Northern Hemisphere","Very High","",30,44251.98788,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",1286.766
+"Italy",2010,59190143,59190143,"Europe","Northern Hemisphere","Very High","",30,42150.60535,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",938.316
+"Italy",2011,59364690,59364690,"Europe","Northern Hemisphere","Very High","",30,42043.25452,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",900.19
+"Italy",2012,59394207,59394207,"Europe","Northern Hemisphere","Very High","",30,40576.27663,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",852.925
+"Italy",2013,59685227,59685227,"Europe","Northern Hemisphere","Very High","",30,39517.53859,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",782.848
+"Italy",2014,60782668,60782668,"Europe","Northern Hemisphere","Very High","",30,39490.18497,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",760.664
+"Italy",2015,60795612,60795612,"Europe","Northern Hemisphere","Very High","",30,39796.6249,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",723.784
+"Italy",2016,60665551,60665551,"Europe","Northern Hemisphere","Very High","",30,41115.42705,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",711.107
+"Italy",2017,60589445,60589445,"Europe","Northern Hemisphere","Very High","",30,41812.97134,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",669.174
+"Italy",2018,60483973,60483973,"Europe","Northern Hemisphere","Very High","",30,42450.93247,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",672.443
+"Italy",2019,59816673,59816673,"Europe","Northern Hemisphere","Very High","",30,43121.80118,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",656.061
+"Italy",2020,59641488,59641488,"Europe","Northern Hemisphere","Very High","",30,39900.63273,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",594.496
+"Italy",2021,59236213,59236213,"Europe","Northern Hemisphere","Very High","",30,42839.51441,"ITA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",608.363
+"Japan",2000,126686000,126686000,"Asia","Northern Hemisphere","Very High","",19,38375.43131,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",2036.18
+"Japan",2005,127687000,127687000,"Asia","Northern Hemisphere","Very High","",19,40079.83225,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",1959.27
+"Japan",2010,127509567,127509567,"Asia","Northern Hemisphere","Very High","",19,39152.92818,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",1585.699
+"Japan",2011,128057352,128057352,"Asia","Northern Hemisphere","Very High","",19,38863.25616,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",1525.538
+"Japan",2012,127798704,127798704,"Asia","Northern Hemisphere","Very High","",19,39328.17159,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",1478.503
+"Japan",2013,127515133,127515133,"Asia","Northern Hemisphere","Very High","",19,40275.25131,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",1420.514
+"Japan",2014,127297686,127297686,"Asia","Northern Hemisphere","Very High","",19,40482.79312,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",1366.182
+"Japan",2015,127082819,127082819,"Asia","Northern Hemisphere","Very High","",19,41874.21537,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",1310.871
+"Japan",2016,127094745,127094745,"Asia","Northern Hemisphere","Very High","",19,42421.08469,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",1410.116
+"Japan",2017,126932772,126932772,"Asia","Northern Hemisphere","Very High","",19,43040.54532,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",1326.668
+"Japan",2018,126706210,126706210,"Asia","Northern Hemisphere","Very High","",19,43086.85266,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",1243.27
+"Japan",2019,126443180,126443180,"Asia","Northern Hemisphere","Very High","",19,43375.7894,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",1162.399
+"Japan",2020,126166948,126166948,"Asia","Northern Hemisphere","Very High","",19,41487.05103,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",1038.489
+"Japan",2021,126146099,126146099,"Asia","Northern Hemisphere","Very High","",19,42274.29134,"JPN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",1044.22
+"Korea",2000,47008111,47008111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2005,48184561,48184561,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2010,49554112,49554112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2011,49936638,49936638,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2012,50199853,50199853,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2013,50428893,50428893,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2014,50746659,50746659,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2015,51014947,51014947,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2016,51217803,51217803,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2017,51361911,51361911,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2018,51585058,51585058,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2019,51764822,51764822,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2020,51836239,51836239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Korea",2021,51744876,51744876,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Latvia",2000,2381715,2381715,"Europe","Northern Hemisphere","Very High","",39,12182.65733,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",43.3
+"Latvia",2005,2249724,2249724,"Europe","Northern Hemisphere","Very High","",39,19008.8348,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",46.233
+"Latvia",2010,2120504,2120504,"Europe","Northern Hemisphere","Very High","",39,20902.91306,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",41.638
+"Latvia",2011,2074605,2074605,"Europe","Northern Hemisphere","Very High","",39,21970.60507,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",38.982
+"Latvia",2012,2044813,2044813,"Europe","Northern Hemisphere","Very High","",39,23245.50419,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",39.228
+"Latvia",2013,2023825,2023825,"Europe","Northern Hemisphere","Very High","",39,24172.55493,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",38.499
+"Latvia",2014,2001468,2001468,"Europe","Northern Hemisphere","Very High","",39,24833.9538,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",38.145
+"Latvia",2015,1986096,1986096,"Europe","Northern Hemisphere","Very High","",39,25952.38949,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",37.481
+"Latvia",2016,1968957,1968957,"Europe","Northern Hemisphere","Very High","",39,27395.61007,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",35.693
+"Latvia",2017,1950116,1950116,"Europe","Northern Hemisphere","Very High","",39,28601.52573,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",36.003
+"Latvia",2018,1934379,1934379,"Europe","Northern Hemisphere","Very High","",39,29894.57755,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",36.964
+"Latvia",2019,1919968,1919968,"Europe","Northern Hemisphere","Very High","",39,31058.91587,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",35.226
+"Latvia",2020,1907675,1907675,"Europe","Northern Hemisphere","Very High","",39,31101.79957,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",32.724
+"Latvia",2021,1893223,1893223,"Europe","Northern Hemisphere","Very High","",39,32803.23423,"LVA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",33.623
+"Lithuania",2000,3512074,3512074,"Europe","Northern Hemisphere","Very High","",35,12815.86855,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",63.024
+"Lithuania",2005,3355220,3355220,"Europe","Northern Hemisphere","Very High","",35,20467.18814,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",63.475
+"Lithuania",2010,3141976,3141976,"Europe","Northern Hemisphere","Very High","",35,23319.32486,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",57.057
+"Lithuania",2011,3052588,3052588,"Europe","Northern Hemisphere","Very High","",35,24538.41744,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",55.983
+"Lithuania",2012,3003641,3003641,"Europe","Northern Hemisphere","Very High","",35,25601.69818,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",55.471
+"Lithuania",2013,2971905,2971905,"Europe","Northern Hemisphere","Very High","",35,26958.98289,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",52.807
+"Lithuania",2014,2943472,2943472,"Europe","Northern Hemisphere","Very High","",35,28610.72871,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",55.556
+"Lithuania",2015,2921262,2921262,"Europe","Northern Hemisphere","Very High","",35,29301.09772,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",57.351
+"Lithuania",2016,2888558,2888558,"Europe","Northern Hemisphere","Very High","",35,30786.23947,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",57.199
+"Lithuania",2017,2847904,2847904,"Europe","Northern Hemisphere","Very High","",35,32541.17287,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",55.496
+"Lithuania",2018,2808901,2808901,"Europe","Northern Hemisphere","Very High","",35,33963.01256,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",56.222
+"Lithuania",2019,2794184,2794184,"Europe","Northern Hemisphere","Very High","",35,35705.28941,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",54.698
+"Lithuania",2020,2794090,2794090,"Europe","Northern Hemisphere","Very High","",35,36076.54329,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",52.594
+"Lithuania",2021,2795680,2795680,"Europe","Northern Hemisphere","Very High","",35,37931.30359,"LTU","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",51.781
+"Luxembourg",2000,433600,433600,"Europe","Northern Hemisphere","Very High","",17,78558.31204,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",40.828
+"Luxembourg",2005,461230,461230,"Europe","Northern Hemisphere","Very High","",17,87012.00638,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",56.17
+"Luxembourg",2010,502066,502066,"Europe","Northern Hemisphere","Very High","",17,75754.521,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",38.737
+"Luxembourg",2011,511840,511840,"Europe","Northern Hemisphere","Very High","",17,76932.51077,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",39.634
+"Luxembourg",2012,524853,524853,"Europe","Northern Hemisphere","Very High","",17,85299.29025,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",37.182
+"Luxembourg",2013,537039,537039,"Europe","Northern Hemisphere","Very High","",17,80965.91409,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",33.956
+"Luxembourg",2014,549680,549680,"Europe","Northern Hemisphere","Very High","",17,83495.1083,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",32.012
+"Luxembourg",2015,562958,562958,"Europe","Northern Hemisphere","Very High","",17,74254.42678,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",28.531
+"Luxembourg",2016,576249,576249,"Europe","Northern Hemisphere","Very High","",17,77076.00087,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",25.659
+"Luxembourg",2017,590667,590667,"Europe","Northern Hemisphere","Very High","",17,82296.95125,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",22.449
+"Luxembourg",2018,602005,602005,"Europe","Northern Hemisphere","Very High","",17,81398.52451,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",20.347
+"Luxembourg",2019,613894,613894,"Europe","Northern Hemisphere","Very High","",17,76018.56437,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",18.26
+"Luxembourg",2020,626108,626108,"Europe","Northern Hemisphere","Very High","",17,80285.84238,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",14.395
+"Luxembourg",2021,634730,634730,"Europe","Northern Hemisphere","Very High","",17,84649.47467,"LUX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",13.387
+"Mexico",2000,97482584,97482584,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2005,104272444,104272444,"America","Northern Hemisphere","High","LAC",86,17414.40728,"MEX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",2784.421
+"Mexico",2010,112095388,112095388,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2011,113748671,113748671,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2012,115367452,115367452,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2013,116935670,116935670,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2014,118453929,118453929,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2015,119936411,119936411,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2016,121347800,121347800,"America","Northern Hemisphere","High","LAC",86,19021.831,"MEX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",1907
+"Mexico",2017,122715165,122715165,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2018,124041731,124041731,"America","Northern Hemisphere","High","LAC",86,19385.89225,"MEX","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",2300.932
+"Mexico",2019,125327797,125327797,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2020,126577691,126577691,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico",2021,127792286,127792286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands",2000,15863950,15863950,"Europe","Northern Hemisphere","Very High","",10,48479.93224,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",474.315
+"Netherlands",2005,16305526,16305526,"Europe","Northern Hemisphere","Very High","",10,49247.57787,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",420.483
+"Netherlands",2010,16574989,16574989,"Europe","Northern Hemisphere","Very High","",10,52227.99073,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",343.121
+"Netherlands",2011,16655799,16655799,"Europe","Northern Hemisphere","Very High","",10,53010.90773,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",328.731
+"Netherlands",2012,16730348,16730348,"Europe","Northern Hemisphere","Very High","",10,52495.66202,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",307.336
+"Netherlands",2013,16779575,16779575,"Europe","Northern Hemisphere","Very High","",10,52116.77307,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",292.62
+"Netherlands",2014,16829289,16829289,"Europe","Northern Hemisphere","Very High","",10,51659.69255,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",265.718
+"Netherlands",2015,16900726,16900726,"Europe","Northern Hemisphere","Very High","",10,52989.64531,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",262.779
+"Netherlands",2016,16979120,16979120,"Europe","Northern Hemisphere","Very High","",10,53067.077,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",247.831
+"Netherlands",2017,17081507,17081507,"Europe","Northern Hemisphere","Very High","",10,55507.09027,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",238.107
+"Netherlands",2018,17181084,17181084,"Europe","Northern Hemisphere","Very High","",10,56614.38413,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",232.442
+"Netherlands",2019,17282163,17282163,"Europe","Northern Hemisphere","Very High","",10,57039.03195,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",220.282
+"Netherlands",2020,17407585,17407585,"Europe","Northern Hemisphere","Very High","",10,53503.64286,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",199.218
+"Netherlands",2021,17475415,17475415,"Europe","Northern Hemisphere","Very High","",10,55979.411,"NLD","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",194.38
+"New Zealand",2000,3857740,3857740,"Oceania","Southern Hemisphere","Very High","",13,27662.57448,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",143.825
+"New Zealand",2005,4133920,4133920,"Oceania","Southern Hemisphere","Very High","",13,32136.46882,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",164.255
+"New Zealand",2010,4350750,4350750,"Oceania","Southern Hemisphere","Very High","",13,34114.89481,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",153.121
+"New Zealand",2011,4383990,4383990,"Oceania","Southern Hemisphere","Very High","",13,35069.11343,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",152.684
+"New Zealand",2012,4408060,4408060,"Oceania","Southern Hemisphere","Very High","",13,35441.88481,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",160.78
+"New Zealand",2013,4442080,4442080,"Oceania","Southern Hemisphere","Very High","",13,37132.03938,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",161.101
+"New Zealand",2014,4516510,4516510,"Oceania","Southern Hemisphere","Very High","",13,37808.10649,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",161.863
+"New Zealand",2015,4609380,4609380,"Oceania","Southern Hemisphere","Very High","",13,38628.37835,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",161.658
+"New Zealand",2016,4714080,4714080,"Oceania","Southern Hemisphere","Very High","",13,39558.75645,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",155.298
+"New Zealand",2017,4813610,4813610,"Oceania","Southern Hemisphere","Very High","",13,40700.46491,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",164.117
+"New Zealand",2018,4900620,4900620,"Oceania","Southern Hemisphere","Very High","",13,41382.39849,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",167.738
+"New Zealand",2019,4979180,4979180,"Oceania","Southern Hemisphere","Very High","",13,42403.52046,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",172.554
+"New Zealand",2020,5090270,5090270,"Oceania","Southern Hemisphere","Very High","",13,41946.38822,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",161.711
+"New Zealand",2021,5111330,5111330,"Oceania","Southern Hemisphere","Very High","",13,44057.31394,"NZL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",164.073
+"Norway",2000,4478497,4478497,"Europe","Northern Hemisphere","Very High","",2,54793.8995,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",213.691
+"Norway",2005,4606363,4606363,"Europe","Northern Hemisphere","Very High","",2,63543.37817,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",207.494
+"Norway",2010,4858199,4858199,"Europe","Northern Hemisphere","Very High","",2,64988.87524,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",198.942
+"Norway",2011,4920305,4920305,"Europe","Northern Hemisphere","Very High","",2,67037.8291,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",196.506
+"Norway",2012,4985870,4985870,"Europe","Northern Hemisphere","Very High","",2,68432.67946,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",192.369
+"Norway",2013,5051275,5051275,"Europe","Northern Hemisphere","Very High","",2,68383.25839,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",188.847
+"Norway",2014,5107970,5107970,"Europe","Northern Hemisphere","Very High","",2,68778.77611,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",186.915
+"Norway",2015,5166493,5166493,"Europe","Northern Hemisphere","Very High","",2,66756.61403,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",178.935
+"Norway",2016,5210721,5210721,"Europe","Northern Hemisphere","Very High","",2,64795.49042,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",170.401
+"Norway",2017,5258317,5258317,"Europe","Northern Hemisphere","Very High","",2,66403.54684,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",164.997
+"Norway",2018,5295619,5295619,"Europe","Northern Hemisphere","Very High","",2,68999.19641,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",162.502
+"Norway",2019,5328212,5328212,"Europe","Northern Hemisphere","Very High","",2,66481.78169,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",154.541
+"Norway",2020,5367580,5367580,"Europe","Northern Hemisphere","Very High","",2,62572.93547,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",145.766
+"Norway",2021,5391369,5391369,"Europe","Northern Hemisphere","Very High","",2,64660.10622,"NOR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",140.428
+"Poland",2000,38263303,38263303,"Europe","Northern Hemisphere","Very High","",34,16177.11083,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",868.021
+"Poland",2005,38173835,38173835,"Europe","Northern Hemisphere","Very High","",34,18610.39132,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",857.507
+"Poland",2010,38022869,38022869,"Europe","Northern Hemisphere","Very High","",34,23207.36326,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",843.068
+"Poland",2011,38062718,38062718,"Europe","Northern Hemisphere","Very High","",34,24307.20371,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",822.669
+"Poland",2012,38063792,38063792,"Europe","Northern Hemisphere","Very High","",34,24660.27546,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",785.627
+"Poland",2013,38062535,38062535,"Europe","Northern Hemisphere","Very High","",34,24971.27568,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",746.069
+"Poland",2014,38017856,38017856,"Europe","Northern Hemisphere","Very High","",34,25724.2512,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",727.561
+"Poland",2015,38005614,38005614,"Europe","Northern Hemisphere","Very High","",34,26821.51433,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",719.033
+"Poland",2016,37967209,37967209,"Europe","Northern Hemisphere","Very High","",34,27466.79559,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",727.846
+"Poland",2017,37972964,37972964,"Europe","Northern Hemisphere","Very High","",34,28817.10086,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",764.94
+"Poland",2018,37976687,37976687,"Europe","Northern Hemisphere","Very High","",34,30369.76617,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",685.996
+"Poland",2019,37972812,37972812,"Europe","Northern Hemisphere","Very High","",34,31838.9708,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",637.864
+"Poland",2020,37958138,37958138,"Europe","Northern Hemisphere","Very High","",34,31164.47794,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",603.872
+"Poland",2021,37840001,37840001,"Europe","Northern Hemisphere","Very High","",34,33033.96081,"POL","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",589.49
+"Portugal",2000,10249022,10249022,"Europe","Northern Hemisphere","Very High","",38,28671.51922,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",298.072
+"Portugal",2005,10494672,10494672,"Europe","Northern Hemisphere","Very High","",38,29777.58843,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",281.249
+"Portugal",2010,10573479,10573479,"Europe","Northern Hemisphere","Very High","",38,30139.45026,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",201.874
+"Portugal",2011,10572721,10572721,"Europe","Northern Hemisphere","Very High","",38,29884.279,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",184.825
+"Portugal",2012,10542398,10542398,"Europe","Northern Hemisphere","Very High","",38,28625.27535,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",171.158
+"Portugal",2013,10487289,10487289,"Europe","Northern Hemisphere","Very High","",38,29016.09421,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",167.279
+"Portugal",2014,10427301,10427301,"Europe","Northern Hemisphere","Very High","",38,29339.43433,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",164.503
+"Portugal",2015,10374822,10374822,"Europe","Northern Hemisphere","Very High","",38,30186.54091,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",166.598
+"Portugal",2016,10341330,10341330,"Europe","Northern Hemisphere","Very High","",38,31170.51606,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",158.992
+"Portugal",2017,10309573,10309573,"Europe","Northern Hemisphere","Very High","",38,32269.04155,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",161.781
+"Portugal",2018,10291027,10291027,"Europe","Northern Hemisphere","Very High","",38,33134.17013,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",156.459
+"Portugal",2019,10276617,10276617,"Europe","Northern Hemisphere","Very High","",38,34078.58487,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",151.035
+"Portugal",2020,10295909,10295909,"Europe","Northern Hemisphere","Very High","",38,31636.80056,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",133.024
+"Portugal",2021,10298252,10298252,"Europe","Northern Hemisphere","Very High","",38,33154.53343,"PRT","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",134.569
+"Slovak Republic",2000,5398657,5398657,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2005,5372685,5372685,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2010,5390410,5390410,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2011,5392446,5392446,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2012,5404322,5404322,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2013,5410836,5410836,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2014,5415949,5415949,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2015,5421349,5421349,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2016,5426252,5426252,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2017,5435343,5435343,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2018,5443120,5443120,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2019,5450421,5450421,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2020,5457873,5457873,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovak Republic",2021,5459781,5459781,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Slovenia",2000,1987755,1987755,"Europe","Northern Hemisphere","Very High","",23,26271.72503,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",58.503
+"Slovenia",2005,1997590,1997590,"Europe","Northern Hemisphere","Very High","",23,30998.99525,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",55.015
+"Slovenia",2010,2046976,2046976,"Europe","Northern Hemisphere","Very High","",23,32747.03725,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",47.69
+"Slovenia",2011,2050189,2050189,"Europe","Northern Hemisphere","Very High","",23,32656.29801,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",46.889
+"Slovenia",2012,2055496,2055496,"Europe","Northern Hemisphere","Very High","",23,31428.41024,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",45.455
+"Slovenia",2013,2058821,2058821,"Europe","Northern Hemisphere","Very High","",23,31285.91288,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",42.734
+"Slovenia",2014,2061085,2061085,"Europe","Northern Hemisphere","Very High","",23,32490.85685,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",38.71
+"Slovenia",2015,2062874,2062874,"Europe","Northern Hemisphere","Very High","",23,32738.32843,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",35.079
+"Slovenia",2016,2064188,2064188,"Europe","Northern Hemisphere","Very High","",23,34095.07338,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",34.523
+"Slovenia",2017,2065895,2065895,"Europe","Northern Hemisphere","Very High","",23,35849.55565,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",34.021
+"Slovenia",2018,2066880,2066880,"Europe","Northern Hemisphere","Very High","",23,37411.31252,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",32.645
+"Slovenia",2019,2080908,2080908,"Europe","Northern Hemisphere","Very High","",23,38439.64415,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",29.504
+"Slovenia",2020,2095861,2095861,"Europe","Northern Hemisphere","Very High","",23,36992.83331,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",25.508
+"Slovenia",2021,2108977,2108977,"Europe","Northern Hemisphere","Very High","",23,39746.01987,"SVN","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",25.757
+"Spain",2000,40470182,40470182,"Europe","Northern Hemisphere","Very High","",27,34019.57287,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",1331.809
+"Spain",2005,43296338,43296338,"Europe","Northern Hemisphere","Very High","",27,37716.50403,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",1318.109
+"Spain",2010,46486619,46486619,"Europe","Northern Hemisphere","Very High","",27,37173.6819,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",931.741
+"Spain",2011,46667174,46667174,"Europe","Northern Hemisphere","Very High","",27,36262.31549,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",931.071
+"Spain",2012,46818219,46818219,"Europe","Northern Hemisphere","Very High","",27,35416.02265,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",876.995
+"Spain",2013,46727890,46727890,"Europe","Northern Hemisphere","Very High","",27,35204.72455,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",808.107
+"Spain",2014,46512199,46512199,"Europe","Northern Hemisphere","Very High","",27,35796.00345,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",789.199
+"Spain",2015,46449565,46449565,"Europe","Northern Hemisphere","Very High","",27,37383.58643,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",807.179
+"Spain",2016,46440099,46440099,"Europe","Northern Hemisphere","Very High","",27,38616.27705,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",756.185
+"Spain",2017,46528024,46528024,"Europe","Northern Hemisphere","Very High","",27,39543.65687,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",748.342
+"Spain",2018,46658447,46658447,"Europe","Northern Hemisphere","Very High","",27,40234.64314,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",735.188
+"Spain",2019,46937060,46937060,"Europe","Northern Hemisphere","Very High","",27,40725.59088,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",672.692
+"Spain",2020,47332614,47332614,"Europe","Northern Hemisphere","Very High","",27,36515.96007,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",597.223
+"Spain",2021,47398695,47398695,"Europe","Northern Hemisphere","Very High","",27,38353.60164,"ESP","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",617.509
+"Sweden",2000,8861426,8861426,"Europe","Northern Hemisphere","Very High","",7,41831.0426,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",221.563
+"Sweden",2005,9011392,9011392,"Europe","Northern Hemisphere","Very High","",7,45959.84488,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",192.592
+"Sweden",2010,9340682,9340682,"Europe","Northern Hemisphere","Very High","",7,49372.47949,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",168.879
+"Sweden",2011,9415570,9415570,"Europe","Northern Hemisphere","Very High","",7,50027.63039,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",162.749
+"Sweden",2012,9482855,9482855,"Europe","Northern Hemisphere","Very High","",7,49432.59605,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",155.44
+"Sweden",2013,9555893,9555893,"Europe","Northern Hemisphere","Very High","",7,49541.43776,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",152.058
+"Sweden",2014,9644864,9644864,"Europe","Northern Hemisphere","Very High","",7,50311.7708,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",150.104
+"Sweden",2015,9747355,9747355,"Europe","Northern Hemisphere","Very High","",7,51490.20301,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",146.258
+"Sweden",2016,9851017,9851017,"Europe","Northern Hemisphere","Very High","",7,51813.28127,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",143.294
+"Sweden",2017,9995153,9995153,"Europe","Northern Hemisphere","Very High","",7,52849.39299,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",137.858
+"Sweden",2018,10120242,10120242,"Europe","Northern Hemisphere","Very High","",7,53050.91638,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",133.612
+"Sweden",2019,10230185,10230185,"Europe","Northern Hemisphere","Very High","",7,54222.71686,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",124.66
+"Sweden",2020,10327589,10327589,"Europe","Northern Hemisphere","Very High","",7,52359.21296,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",116.413
+"Sweden",2021,10379295,10379295,"Europe","Northern Hemisphere","Very High","",7,54489.37401,"SWE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",114.849
+"Switzerland",2000,7164444,7164444,"Europe","Northern Hemisphere","Very High","",1,63978.24712,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",102.011
+"Switzerland",2005,7415102,7415102,"Europe","Northern Hemisphere","Very High","",1,67985.55126,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",93.244
+"Switzerland",2010,7785806,7785806,"Europe","Northern Hemisphere","Very High","",1,71188.41857,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",83.038
+"Switzerland",2011,7870134,7870134,"Europe","Northern Hemisphere","Very High","",1,68805.06719,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",78.77
+"Switzerland",2012,7954662,7954662,"Europe","Northern Hemisphere","Very High","",1,69805.01371,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",79.178
+"Switzerland",2013,8039060,8039060,"Europe","Northern Hemisphere","Very High","",1,69539.14942,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",79.268
+"Switzerland",2014,8139631,8139631,"Europe","Northern Hemisphere","Very High","",1,69019.26094,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",75.506
+"Switzerland",2015,8237666,8237666,"Europe","Northern Hemisphere","Very High","",1,70410.26815,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",71.376
+"Switzerland",2016,8327126,8327126,"Europe","Northern Hemisphere","Very High","",1,68993.42475,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",69.457
+"Switzerland",2017,8419550,8419550,"Europe","Northern Hemisphere","Very High","",1,68167.80327,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",65.766
+"Switzerland",2018,8484130,8484130,"Europe","Northern Hemisphere","Very High","",1,67771.6548,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",62.507
+"Switzerland",2019,8544527,8544527,"Europe","Northern Hemisphere","Very High","",1,68432.68312,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",58.923
+"Switzerland",2020,8606033,8606033,"Europe","Northern Hemisphere","Very High","",1,65011.21711,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",52.074
+"Switzerland",2021,8670300,8670300,"Europe","Northern Hemisphere","Very High","",1,66933.00454,"CHE","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",50.552
+"Türkiye",2000,63808001,63808001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2005,68010221,68010221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2010,72561312,72561312,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2011,73722988,73722988,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2012,74724269,74724269,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2013,75627384,75627384,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2014,76667864,76667864,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2015,77695904,77695904,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2016,78741053,78741053,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2017,79814871,79814871,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2018,80810525,80810525,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2019,82003882,82003882,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2020,83154997,83154997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Türkiye",2021,83614362,83614362,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United Kingdom",2000,58785246,58785246,"Europe","Northern Hemisphere","Very High","",18,37777.78716,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",2055.117
+"United Kingdom",2005,60182050,60182050,"Europe","Northern Hemisphere","Very High","",18,42785.2434,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",1783.696
+"United Kingdom",2010,62510197,62510197,"Europe","Northern Hemisphere","Very High","",18,41666.51526,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",1259.38
+"United Kingdom",2011,63022532,63022532,"Europe","Northern Hemisphere","Very High","",18,41872.23405,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",1169.917
+"United Kingdom",2012,63495088,63495088,"Europe","Northern Hemisphere","Very High","",18,41700.4797,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",1193.137
+"United Kingdom",2013,63905342,63905342,"Europe","Northern Hemisphere","Very High","",18,42026.76323,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",1131.27
+"United Kingdom",2014,64351203,64351203,"Europe","Northern Hemisphere","Very High","",18,43236.64235,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",1054.577
+"United Kingdom",2015,64853393,64853393,"Europe","Northern Hemisphere","Very High","",18,44136.35045,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",1012.288
+"United Kingdom",2016,65379044,65379044,"Europe","Northern Hemisphere","Very High","",18,44729.56153,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",922.901
+"United Kingdom",2017,65844142,65844142,"Europe","Northern Hemisphere","Very High","",18,45771.00186,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",882.384
+"United Kingdom",2018,66273576,66273576,"Europe","Northern Hemisphere","Very High","",18,46225.87833,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",839.991
+"United Kingdom",2019,66647112,66647112,"Europe","Northern Hemisphere","Very High","",18,47251.76897,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",779.538
+"United Kingdom",2020,67025542,67025542,"Europe","Northern Hemisphere","Very High","",18,42374.7622,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",677.93
+"United Kingdom",2021,66976758.699,66976758.699,"Europe","Northern Hemisphere","Very High","",18,45224.76564,"GBR","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",677.533
+"United States",2000,279040168,279040168,"America","Northern Hemisphere","Very High","",21,50420.86712,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2000,"TONNE","Tonnes",3,"Thousands",20262.523
+"United States",2005,292805298,292805298,"America","Northern Hemisphere","Very High","",21,54305.12642,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2005,"TONNE","Tonnes",3,"Thousands",19727.458
+"United States",2010,306771529,306771529,"America","Northern Hemisphere","Very High","",21,54265.33606,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2010,"TONNE","Tonnes",3,"Thousands",13882.921
+"United States",2011,309994327,309994327,"America","Northern Hemisphere","Very High","",21,54949.54774,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2011,"TONNE","Tonnes",3,"Thousands",13190.443
+"United States",2012,312238050,312238050,"America","Northern Hemisphere","Very High","",21,56402.58237,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2012,"TONNE","Tonnes",3,"Thousands",12387.156
+"United States",2013,314549418,314549418,"America","Northern Hemisphere","Very High","",21,56904.62415,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2013,"TONNE","Tonnes",3,"Thousands",11639.065
+"United States",2014,316775507,316775507,"America","Northern Hemisphere","Very High","",21,58314.25546,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2014,"TONNE","Tonnes",3,"Thousands",10983.72
+"United States",2015,319528204,319528204,"America","Northern Hemisphere","Very High","",21,59682.8778,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2015,"TONNE","Tonnes",3,"Thousands",9952.411
+"United States",2016,321553940,321553940,"America","Northern Hemisphere","Very High","",21,59969.35653,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2016,"TONNE","Tonnes",3,"Thousands",8987.879
+"United States",2017,324076293,324076293,"America","Northern Hemisphere","Very High","",21,61186.46283,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2017,"TONNE","Tonnes",3,"Thousands",8454.802
+"United States",2018,325732103,325732103,"America","Northern Hemisphere","Very High","",21,62626.32702,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2018,"TONNE","Tonnes",3,"Thousands",8102.225
+"United States",2019,327170529,327170529,"America","Northern Hemisphere","Very High","",21,63614.86366,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2019,"TONNE","Tonnes",3,"Thousands",7735.416
+"United States",2020,328744045,328744045,"America","Northern Hemisphere","Very High","",21,61461.64197,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2020,"TONNE","Tonnes",3,"Thousands",6866.965
+"United States",2021,330382026,330382026,"America","Northern Hemisphere","Very High","",21,64765.21509,"USA","NOX","Nitrogen Oxides","TOT","Total man-made emissions",2021,"TONNE","Tonnes",3,"Thousands",6922.033
